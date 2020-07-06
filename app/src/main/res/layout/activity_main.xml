@@ -24,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_centerHorizontal="true"
         android:text="@string/title"
-        android:textColor="#999999"
+        android:textColor="#FFFFFF"
         android:textSize="50sp" />
 
 </RelativeLayout>
